@@ -32,7 +32,6 @@ It allows users to submit meal information and receive basic nutritional feedbac
 
 ## Project Structure
 
-```plaintext
 app/
 ├── main.py          # FastAPI app entry point
 ├── routers/         # API route definitions
